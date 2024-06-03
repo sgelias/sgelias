@@ -21,7 +21,7 @@ Biosoftware Developer, I am interested in develop and improve bioinformatic and 
 
 <p align="center">
     <a href="https://github.com/anuraghazra/github-readme-stats">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sgelias&layout=compact&hide=jupyter%20notebook,TeX&langs_count=10&theme=onedark" width="50%">
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sgelias&layout=compact&hide=jupyter%20notebook,TeX&langs_count=20&theme=onedark" width="50%">
     </a>
 </p>
 
