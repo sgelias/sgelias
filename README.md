@@ -19,17 +19,17 @@
 ## Who am I?
 Biosoftware Developer, I am interested in develop and improve bioinformatic and general purpose software to solve biological problems.
 
-<p align="center">
-    <a href="https://github.com/anuraghazra/github-readme-stats">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sgelias&layout=compact&hide=jupyter%20notebook,TeX&langs_count=20&theme=onedark" width="50%">
-    </a>
-</p>
+See [Lepista Bioinformatics](https://github.com/LepistaBioinformatics) as principal repo!
+
+See my personal repo:
 
 <p align="center">
     <a href="https://github.com/ryo-ma/github-profile-trophy">
         <img src="https://github-profile-trophy.vercel.app/?username=sgelias&theme=onedark&rank=SECRET,SSS,SS,S,AAA,AA,A&column=-1" alt="trophies", width="60%">
     </a>
 </p>
+
+
 
 - 🔭 I’m currently working on [Biotrop Biological Solutions](https://biotrop.com.br/)
 - 🌱 I’m currently learning 
