@@ -3,10 +3,6 @@
 ## Where to find me
 
 <p align="center">
-    <a href="https://research.pasteur.fr/en/member/luc-blassel/">
-        <img src="icons/work.svg" alt="work">
-    </a>
-    &nbsp;&nbsp;&nbsp;&nbsp;
     <a href="https://scholar.google.com/citations?view_op=list_works&hl=en&user=AABSUtgAAAAJ">
         <img src="icons/scholar.svg">
     </a>
