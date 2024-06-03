@@ -1,16 +1,41 @@
-## Hi there 👋
+#  Luc Blassel
 
-<!--
-**sgelias/sgelias** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Where to find me
 
-Here are some ideas to get you started:
+<p align="center">
+    <a href="https://research.pasteur.fr/en/member/luc-blassel/">
+        <img src="icons/work.svg" alt="work">
+    </a>
+    &nbsp;&nbsp;&nbsp;&nbsp;
+    <a href="https://scholar.google.com/citations?view_op=list_works&hl=en&user=AABSUtgAAAAJ">
+        <img src="icons/scholar.svg">
+    </a>
+    &nbsp;&nbsp;&nbsp;&nbsp;
+    <a href="https://orcid.org/0000-0001-9138-8845">
+        <img src="icons/orcid.svg">
+    </a>
+    &nbsp;&nbsp;&nbsp;&nbsp;
+    <a href="https://www.linkedin.com/in/samuel-galv%C3%A3o-elias-18556619b/">
+        <img src="icons/linkedin.svg">
+    </a>
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Who am I?
+Biosoftware Developer, I am interested in develop and improve bioinformatic and general purpose software to solve biological problems.
+
+<p align="center">
+    <a href="https://github.com/anuraghazra/github-readme-stats">
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sgelias&layout=compact&hide=jupyter%20notebook,TeX&langs_count=10&theme=onedark" width="50%">
+    </a>
+</p>
+
+<p align="center">
+    <a href="https://github.com/ryo-ma/github-profile-trophy">
+        <img src="https://github-profile-trophy.vercel.app/?username=sgelias&theme=onedark&rank=SECRET,SSS,SS,S,AAA,AA,A&column=-1" alt="trophies", width="60%">
+    </a>
+</p>
+
+- 🔭 I’m currently working on [Biotrop Biological Solutions](https://biotrop.com.br/)
+- 🌱 I’m currently learning 
+- 💬 Ask me about Softwares for Genomics, Metagenomics, Mycology, Microbiology
+- ⚡ Fun fact: I am a official botanist. Be patient!
