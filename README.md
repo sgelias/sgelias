@@ -4,13 +4,13 @@
 
 <h2 align="center" style="display:flex; justify-content:space-around; row-gap:15rem; column-gap:15rem">
     <a href="https://scholar.google.com/citations?view_op=list_works&hl=en&user=AABSUtgAAAAJ">
-        <img src="icons/scholar.svg">
+        <img style="margin-x:15px" src="icons/scholar.svg">
     </a>
     <a href="https://orcid.org/0000-0001-9138-8845">
-        <img src="icons/orcid.svg">
+        <img style="margin-x:15px" src="icons/orcid.svg">
     </a>
     <a href="https://www.linkedin.com/in/samuel-galv%C3%A3o-elias-18556619b/">
-        <img src="icons/linkedin.svg">
+        <img style="margin-x:15px" src="icons/linkedin.svg">
     </a>
 </h2>
 
