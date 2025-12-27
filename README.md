@@ -21,16 +21,6 @@
 ## Who am I?
 Biosoftware Developer, I am interested in develop and improve bioinformatic and general purpose software to solve biological problems.
 
-See my personal repo:
-
-<p align="center">
-    <a href="https://github.com/ryo-ma/github-profile-trophy">
-        <img src="https://github-profile-trophy.vercel.app/?username=sgelias&theme=onedark&rank=SECRET,SSS,SS,S,AAA,AA,A&column=-1" alt="trophies", width="60%">
-    </a>
-</p>
-
-
-
 - 🔭 I’m currently working on [Biotrop Biological Solutions](https://biotrop.com.br/)
 - 🌱 I’m currently learning 
 - 💬 Ask me about Softwares for Genomics, Metagenomics, Mycology, Microbiology
