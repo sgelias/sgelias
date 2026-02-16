@@ -14,6 +14,21 @@
     </a>
 </h2>
 
+<h3 style="font-size:30px;">
+    See <a href="https://github.com/LepistaBioinformatics">Lepista Bioinformatics</a> as my principal repo!
+</h3>
+
+## Who am I?
+
+Biosoftware Developer, I am interested in develop and improve bioinformatic and general purpose software to solve biological problems.
+
+- 🔭 I’m currently working on [Biotrop Biological Solutions](https://biotrop.com.br/)
+- 🌱 I’m currently learning 
+- 💬 Ask me about Softwares for Genomics, Metagenomics, Mycology, Microbiology
+- ⚡ Fun fact: I am a official botanist. Be patient!
+
+## My dev screenshot
+
 <picture>
   <source
     srcset="https://github-readme-stats-fast.vercel.app/api?username=sgelias&show_icons=true&theme=nord"
@@ -25,15 +40,3 @@
   />
   <img src="https://github-readme-stats-fast.vercel.app/api?username=sgelias&show_icons=true&theme=default" />
 </picture>
-
-<h3 style="font-size:30px;">
-    See <a href="https://github.com/LepistaBioinformatics">Lepista Bioinformatics</a> as my principal repo!
-</h3>
-
-## Who am I?
-Biosoftware Developer, I am interested in develop and improve bioinformatic and general purpose software to solve biological problems.
-
-- 🔭 I’m currently working on [Biotrop Biological Solutions](https://biotrop.com.br/)
-- 🌱 I’m currently learning 
-- 💬 Ask me about Softwares for Genomics, Metagenomics, Mycology, Microbiology
-- ⚡ Fun fact: I am a official botanist. Be patient!
