@@ -14,6 +14,18 @@
     </a>
 </h2>
 
+<picture>
+  <source
+    srcset="https://github-readme-stats-fast.vercel.app/api?username=sgelias&show_icons=true&theme=nord"
+    media="(prefers-color-scheme: dark)"
+  />
+  <source
+    srcset="https://github-readme-stats-fast.vercel.app/api?username=sgelias&show_icons=true&theme=default"
+    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+  />
+  <img src="https://github-readme-stats-fast.vercel.app/api?username=sgelias&show_icons=true&theme=default" />
+</picture>
+
 <h3 style="font-size:30px;">
     See <a href="https://github.com/LepistaBioinformatics">Lepista Bioinformatics</a> as my principal repo!
 </h3>
